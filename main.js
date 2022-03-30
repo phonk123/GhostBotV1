@@ -122,7 +122,7 @@ global.reloadHandler = function () {
     conn.off('CB:action,,call', conn.onCall)
   }
   conn.welcome = '┏━━━━━━━━━━━━\n┃──〘 *WELCOME* 〙──\n┃━━━━━━━━━━━━\n┃ *_✨ @user bienvenid@ a_* \n┃ *_@subject ✨_*\n┃\n┃=> *_Este grupo servira_*\n┃ *_para:_*\n┠⊷ *Tareas ☠️* \n┠⊷ *Desmadre 😎💥* \n┠⊷ *Relajo 👺* \n┠⊷ *Joda 😳* :\n┠⊷ *Un Bot Sexy*\n┃\n┃=> *_Puedes solicitar mi lista de_*\n┃ *_comandos con:_*\n┠⊷ *#menu*\n┃\n┃=> *_Aquí tienes la descripción_* \n┃ *_del grupo, léela!!_*\n┃\n\n@desc\n\n┃ \n┃ *_🔰  Disfruta de tu_* \n┃ *_estadía en el grupo  🔰_*  \n┃\n┗━━━━━━━━━━━'
-  conn.bye = '┏━━━━━━━━━━━━\n┃──〘 *ADIOS* 〙───\n┃━━━━━━━━━━━━\n┃ *_☠ Se fue @user_* \n┃ *_Que dios lo bendiga️_* \n┃ *_Y lo atropelle un tren 😇_*\n┗━━━━━━━━━━'
+  conn.bye = '┏━━━━━━━━━━━━\n┃──〘 *ADIOS* 〙───\n┃━━━━━━━━━━━━\n┃ *_☠ Se fue @user_* \n┃ *_Un gay salio del grupo_* \n┃ *_Ojala lo doxeen 💀💢_*\n┗━━━━━━━━━━'
   conn.spromote = '*@user 𝐁𝐈𝐄𝐍𝐕𝐄𝐍𝐈𝐃𝐎!! 𝐀𝐇𝐎𝐑𝐀 𝐅𝐎𝐑𝐌𝐀𝐒 𝐏𝐀𝐑𝐓𝐄 𝐃𝐄 𝐋𝐎𝐒 𝐀𝐃𝐌𝐈𝐍𝐈𝐒𝐓𝐑𝐀𝐃𝐎𝐑𝐄𝐒 𝐃𝐄𝐋 𝐆𝐑𝐔𝐏𝐎*'
   conn.sdemote = '*@user 𝐀𝐇𝐎𝐑𝐀 𝐘𝐀 𝐅𝐎𝐑𝐌𝐀𝐒 𝐏𝐀𝐑𝐓𝐄 𝐃𝐄 𝐋𝐎𝐒 𝐀𝐃𝐌𝐈𝐍𝐈𝐒𝐓𝐑𝐀𝐃𝐎𝐑𝐄𝐒 𝐃𝐄𝐋 𝐆𝐑𝐔𝐏𝐎*'
   conn.handler = handler.handler
